@@ -1,0 +1,6 @@
+print ("the sum of numbers=",6+4)
+print ("given numbers 6 and 4")
+print ("sum:", 6+4)
+print ("difference:",6-4)
+print ("product:", 6*4) 
+print ("My age is ",(2023-2003))

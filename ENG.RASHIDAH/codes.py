@@ -1,0 +1,6 @@
+print("rashidahabbas") 
+print("am going to be a programmer")
+print("am aiming at being a software developer") 
+print("so i have to practice as much as i can")
+print("you dont have to be great to start,but you have to start to be great")
+print("all in all i have to own a personal computer")
